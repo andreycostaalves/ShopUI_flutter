@@ -1,16 +1,12 @@
-# shopping
+# shopping UI Flutter
 
-A new Flutter project.
 
-## Getting Started
+## Sobre
+Animação Flutter, Hero, Fade, Stack, Positioned, BoxShadow, TextField, Gradient, LinearGradient e assim por diante.
+Uso de temas DarkTheme & LigthTheme.
 
-This project is a starting point for a Flutter application.
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:207.31%;position:relative;"><iframe width="260" height="539" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/42h8et"></iframe></div><p><a href="https://imgflip.com/gif/42h8et">via Imgflip</a></p></div>
 
-A few resources to get you started if this is your first Flutter project:
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:207.31%;position:relative;"><iframe width="260" height="539" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/42h8m9"></iframe></div><p><a href="https://imgflip.com/gif/42h8m9">via Imgflip</a></p></div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:207.31%;position:relative;"><iframe width="260" height="539" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/42h8tz"></iframe></div><p><a href="https://imgflip.com/gif/42h8tz">via Imgflip</a></p></div>
